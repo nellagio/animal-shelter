@@ -1,0 +1,20 @@
+img {
+  width: 100%;
+}
+
+.animals{
+  float: left;
+  width: 30%;
+  margin-left: 10px;
+}
+
+.animals h2 {
+  font-weight: bold;
+  color: purple;
+  font-style: normal;
+}
+
+h2 {
+  font-style: italic;
+  color: palevioletred;
+}
